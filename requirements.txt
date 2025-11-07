@@ -1,2 +1,32 @@
-streamlit
-openai
+# HelixAgentCodexStreamlit - v16.8 Dependencies
+# Streamlit-based agent codex interface
+
+# Web Framework
+streamlit==1.31.0
+streamlit-option-menu==0.3.12
+
+# AI/LLM Integration
+openai==1.14.0
+anthropic==0.21.0
+
+# Data Processing
+numpy==1.26.4
+pandas==2.2.0
+
+# Visualization
+matplotlib==3.8.3
+plotly==5.18.0
+
+# Environment & Configuration
+python-dotenv==1.0.1
+toml==0.10.2
+
+# HTTP & API
+requests==2.32.3
+httpx==0.28.0
+
+# Cryptography
+pycryptodome==3.20.0
+
+# Logging
+python-json-logger==2.0.7
